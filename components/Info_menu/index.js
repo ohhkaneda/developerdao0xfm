@@ -18,7 +18,7 @@ export default function Info_menu({ info, timer }) {
         <div className="info_menu_text">
           <ul>
             <a
-              href="https://www.developerdao0xfm.vercel.app/"
+              href="https://www.developerdao.com/"
               rel="noreferrer"
               target="_blank"
             >
