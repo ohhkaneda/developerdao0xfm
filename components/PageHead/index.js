@@ -17,7 +17,10 @@ const PageHead = () => {
         name="twitter:description"
         content="A place where you can listen to Synthwave Music while building cool things!"
       />
-      <meta name="twitter:image" content="https://i.ibb.co/tPLLryx/1.png" />
+      <meta
+        name="twitter:image"
+        content="https://storageapi.fleek.co/f02d2e19-597a-49d7-a844-ac8d7c46492a-bucket/developerdao0xfm.jpg"
+      />
 
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Developer DAO 0xFM 🎧" />
@@ -29,7 +32,10 @@ const PageHead = () => {
         property="og:url"
         content="https://www.developerdao0xfm.vercel.app/"
       />
-      <meta property="og:image" content="https://i.ibb.co/tPLLryx/1.png" />
+      <meta
+        property="og:image"
+        content="https://storageapi.fleek.co/f02d2e19-597a-49d7-a844-ac8d7c46492a-bucket/developerdao0xfm.jpg"
+      />
     </Head>
   );
 };
@@ -46,14 +52,14 @@ openGraph={{
   description: 'A place where you can listen to Synthwave Music while building cool things!',
   images: [
     {
-      url: 'https://i.ibb.co/tPLLryx/1.png',
+      url: 'https://storageapi.fleek.co/f02d2e19-597a-49d7-a844-ac8d7c46492a-bucket/developerdao0xfm.jpg',
       width: 800,
       height: 600,
       alt: 'Developer DAO 0xFM',
       type: 'image/jpeg',
     },
     {
-      url: 'https://i.ibb.co/wdwWkdz/3669469.png',
+      url: 'https://storageapi.fleek.co/f02d2e19-597a-49d7-a844-ac8d7c46492a-bucket/developerdao0xfm.jpg',
       width: 900,
       height: 800,
       alt: 'Developer DAO 0xFM',
