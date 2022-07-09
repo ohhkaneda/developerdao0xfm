@@ -76,28 +76,28 @@ const playlists = [
   {
     img: img2,
     title: " - beats to rip/tear to",
-    name: "doom radio",
+    name: "Doom RADIO",
     link: "https://www.youtube.com/watch?v=JEuAYnjtJP0"
   },
 
   {
     img: img5,
     title: "Dark TECHNO",
-    name: "BLADE Dark RAVE Radio",
+    name: "BLADE RAVE RADIO",
     link: "https://www.youtube.com/watch?v=80vfwFzKQqA"
   },
   {
     img: img1,
-    title: "Darksynth FM",
-    name: " - dark synthwave radio",
+    title: " - dark synthwave FM",
+    name: "Darksynth RADIO",
     link: "https://www.youtube.com/watch?v=DbepZk4PSiI"
+  },
+  {
+    img: img7,
+    title: "TECHNO RAVE 24/7 DJ Mixes",
+    name: "ART OF TECHNO RADIO",
+    link: "https://www.youtube.com/watch?v=uD-yRxTHinA"
   }
-  //{
-  //   img: img7,
-  //    title: "Drake but he's extra chill for an hour | Lofi Mix | CHILLAF",
-  //    name: "CHILLAF ",
-  //    link: "https://youtu.be/AG4qxGwTLlY"
-  //  },
   //  {
   //   img: img3,
   //    title: "This is what daydreaming sounds like  Lofi Music..",
