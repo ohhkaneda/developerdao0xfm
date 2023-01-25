@@ -81,12 +81,6 @@ const playlists = [
   },
 
   {
-    img: img5,
-    title: "Dark TECHNO",
-    name: "BLADE RAVE RADIO",
-    link: "https://www.youtube.com/watch?v=80vfwFzKQqA"
-  },
-  {
     img: img1,
     title: " - dark synthwave FM",
     name: "Darksynth RADIO",
