@@ -91,12 +91,6 @@ const playlists = [
     title: " - dark synthwave FM",
     name: "Darksynth RADIO",
     link: "https://www.youtube.com/watch?v=DbepZk4PSiI"
-  },
-  {
-    img: img7,
-    title: "TECHNO RAVE 24/7 DJ Mixes",
-    name: "ART OF TECHNO RADIO",
-    link: "https://www.youtube.com/watch?v=uD-yRxTHinA"
   }
   //  {
   //   img: img3,
